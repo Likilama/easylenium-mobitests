@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe5b3644-750c-4941-bc2e-14422a9be0ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/domrf/helpers/touchAction/TouchAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/domrf/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/domrf/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/domrf/autoTests/Registration.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/domrf/autoTests/Registration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/domrf/screenObjects/RegistrationScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/Ios-Autotests-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/Ios-Autotests-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_12:49:26.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_13:51:45.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_15:45:17.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_15:50:01.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_15:51:39.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_15:52:37.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_15:58:30.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:01:42.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:03:08.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:03:52.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:06:19.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:14:11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:18:40.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:21:42.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:23:23.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:26:52.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:30:14.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:38:07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:42:57.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:44:20.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:45:36.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-25/RUN_16:46:43.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_10:17:16.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_10:20:06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_10:20:29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_10:44:45.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_10:49:50.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_11:01:31.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_11:02:38.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_11:27:58.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_11:30:29.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_12:04:24.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_12:05:48.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_12:14:10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_12:18:56.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_12:20:38.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_12:24:07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_12:26:34.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_12:29:51.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_12:45:35.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_20:54:59.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/2020-02-26/RUN_20:59:34.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/domrf/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/domrf/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/domrf/autoTests/Registration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/domrf/helpers/send/Send.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/domrf/helpers/send/Send.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/domrf/screenObjects/StartScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/domrf/screenObjects/firstStepBooking/Interests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/domrf/screenObjects/registrationScreen/ContractRegScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/domrf/screenObjects/registrationScreen/PhoneChek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/domrf/screenObjects/registrationScreen/RegistrationScreen.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ios-Autotests" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ios-Autotests" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ios-Autotests" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ios-Autotests" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Y3wfVPZUxt7i2RXhG98U8Z0F2g" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.mobile-autotests [build]">
+    <configuration name="mobile-autotests [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="mobile-autotests [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Registration.registration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ios-Autotests.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="domrf.autoTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="domrf.autoTests" />
+      <option name="MAIN_CLASS_NAME" value="domrf.autoTests.Registration" />
+      <option name="METHOD_NAME" value="registration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Registration.registration" />
+        <item itemvalue="Gradle.mobile-autotests [clean]" />
+        <item itemvalue="Gradle.mobile-autotests [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe5b3644-750c-4941-bc2e-14422a9be0ba" name="Default Changelist" comment="" />
+      <created>1580194756945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580194756945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1680" y="385" key="#Project_Structure" timestamp="1582623023741">
+      <screen x="-2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="-1680" y="385" key="#Project_Structure/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1582623023741" />
+    <state x="528" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583910744292">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="528" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1583910744292" />
+    <state x="402" y="243" width="1148" height="704" key="#xdebugger.evaluate" timestamp="1582277565869">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="402" y="243" width="1148" height="704" key="#xdebugger.evaluate/0.0.1680.1050/-2560.0.2560.1440@0.0.1680.1050" timestamp="1582277565869" />
+    <state x="420" y="127" key="CommitChangelistDialog2" timestamp="1582744300483">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="420" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1582744300483" />
+    <state width="1638" height="336" key="GridCell.Tab.0.bottom" timestamp="1582886988677">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="2518" height="336" key="GridCell.Tab.0.bottom/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1582710334554" />
+    <state width="1638" height="336" key="GridCell.Tab.0.bottom/0.0.1680.1050/-2560.0.2560.1440@0.0.1680.1050" timestamp="1582886988677" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050/-2560.23.2560.1337@0.0.1680.1050" timestamp="1582204103035" />
+    <state width="1638" height="291" key="GridCell.Tab.0.bottom/0.0.1680.1050/-2560.23.2560.1417@0.0.1680.1050" timestamp="1582279642041" />
+    <state width="1638" height="336" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582740057815" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.23.1680.947/-2560.23.2560.1417@0.23.1680.947" timestamp="1582197869288" />
+    <state width="1638" height="336" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1582739973436" />
+    <state width="1638" height="336" key="GridCell.Tab.0.center" timestamp="1582886988676">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="2518" height="336" key="GridCell.Tab.0.center/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1582710334552" />
+    <state width="1638" height="336" key="GridCell.Tab.0.center/0.0.1680.1050/-2560.0.2560.1440@0.0.1680.1050" timestamp="1582886988676" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050/-2560.23.2560.1337@0.0.1680.1050" timestamp="1582204103033" />
+    <state width="1638" height="291" key="GridCell.Tab.0.center/0.0.1680.1050/-2560.23.2560.1417@0.0.1680.1050" timestamp="1582279642039" />
+    <state width="1638" height="336" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582740057814" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.23.1680.947/-2560.23.2560.1417@0.23.1680.947" timestamp="1582197869287" />
+    <state width="1638" height="336" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1582739973435" />
+    <state width="1638" height="336" key="GridCell.Tab.0.left" timestamp="1582886988675">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="2518" height="336" key="GridCell.Tab.0.left/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1582710334551" />
+    <state width="1638" height="336" key="GridCell.Tab.0.left/0.0.1680.1050/-2560.0.2560.1440@0.0.1680.1050" timestamp="1582886988675" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050/-2560.23.2560.1337@0.0.1680.1050" timestamp="1582204103032" />
+    <state width="1638" height="291" key="GridCell.Tab.0.left/0.0.1680.1050/-2560.23.2560.1417@0.0.1680.1050" timestamp="1582279642038" />
+    <state width="1638" height="336" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582740057813" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.23.1680.947/-2560.23.2560.1417@0.23.1680.947" timestamp="1582197869286" />
+    <state width="1638" height="336" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1582739973434" />
+    <state width="1638" height="336" key="GridCell.Tab.0.right" timestamp="1582886988677">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="2518" height="336" key="GridCell.Tab.0.right/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1582710334553" />
+    <state width="1638" height="336" key="GridCell.Tab.0.right/0.0.1680.1050/-2560.0.2560.1440@0.0.1680.1050" timestamp="1582886988677" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050/-2560.23.2560.1337@0.0.1680.1050" timestamp="1582204103034" />
+    <state width="1638" height="291" key="GridCell.Tab.0.right/0.0.1680.1050/-2560.23.2560.1417@0.0.1680.1050" timestamp="1582279642040" />
+    <state width="1638" height="336" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582740057814" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.23.1680.947/-2560.23.2560.1417@0.23.1680.947" timestamp="1582197869287" />
+    <state width="1638" height="336" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1582739973436" />
+    <state width="1638" height="257" key="GridCell.Tab.1.bottom" timestamp="1582291532838">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="257" key="GridCell.Tab.1.bottom/0.0.1680.1050/-2560.0.2560.1440@0.0.1680.1050" timestamp="1582291532838" />
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.970/-2560.23.2560.1417@0.0.1680.970" timestamp="1582277207565" />
+    <state width="1638" height="257" key="GridCell.Tab.1.center" timestamp="1582291532836">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="257" key="GridCell.Tab.1.center/0.0.1680.1050/-2560.0.2560.1440@0.0.1680.1050" timestamp="1582291532836" />
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.970/-2560.23.2560.1417@0.0.1680.970" timestamp="1582277207563" />
+    <state width="1638" height="257" key="GridCell.Tab.1.left" timestamp="1582291532835">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="257" key="GridCell.Tab.1.left/0.0.1680.1050/-2560.0.2560.1440@0.0.1680.1050" timestamp="1582291532835" />
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.970/-2560.23.2560.1417@0.0.1680.970" timestamp="1582277207562" />
+    <state width="1638" height="257" key="GridCell.Tab.1.right" timestamp="1582291532837">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="257" key="GridCell.Tab.1.right/0.0.1680.1050/-2560.0.2560.1440@0.0.1680.1050" timestamp="1582291532837" />
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.970/-2560.23.2560.1417@0.0.1680.970" timestamp="1582277207565" />
+    <state x="517" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1583910759077">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="-1772" y="455" key="com.intellij.ide.util.TipDialog/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1582637180823" />
+    <state x="517" y="329" key="com.intellij.ide.util.TipDialog/0.0.1680.1050/-2560.0.2560.1440@0.0.1680.1050" timestamp="1582886999390" />
+    <state x="517" y="320" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582744219772" />
+    <state x="517" y="329" key="com.intellij.ide.util.TipDialog/0.23.1680.947/-2560.23.2560.1417@0.23.1680.947" timestamp="1582184857534" />
+    <state x="517" y="329" key="com.intellij.ide.util.TipDialog/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1583910759077" />
+    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582744282265">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1582744282265" />
+  </component>
+</project>
